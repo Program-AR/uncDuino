@@ -3,7 +3,7 @@
 // Colaboración: Fundación Sadosky, proyecto Program.AR
 
 UNCDuino = {};
-UNCDuino.Version = 'v1.0.6';
+UNCDuino.Version = 'v1.0.6bis';
 
 UNCDuino.Historia =
 '\
